@@ -1,0 +1,7 @@
+#Tue Mar 28 15:06:05 BRT 2017
+base.0=C\:\\Users\\caian.sa\\Downloads\\facebook-login-master\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c69d8e2cebfc7f23f6bc69b1a9d1d1d5bcb9d4e7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\caian.sa\\Downloads\\facebook-login-master\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_326511b321dd258c8470595abaca98f13082d76f\\classes.dex
+base.1=C\:\\Users\\caian.sa\\Downloads\\facebook-login-master\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_326511b321dd258c8470595abaca98f13082d76f
+file.0=C\:\\Users\\caian.sa\\Downloads\\facebook-login-master\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c69d8e2cebfc7f23f6bc69b1a9d1d1d5bcb9d4e7\\classes.dex

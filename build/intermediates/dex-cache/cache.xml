@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_357c8e0633e48ebd1639da56999684f4008fd310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="894f2f874982c86971c5ab6b487fa79dcffebe4a">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_326511b321dd258c8470595abaca98f13082d76f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_1dd4cbae5419689bb635a147e11ecd7f80bba533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_6d0837543be637fe1cb3cfa0d1fb65eb27c6bcd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_10e39b1cbbc49a8909ddfefe202cbae9a36ee8ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_7e72e45ccffe31e29aeb03c1a1fc96e371442c26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_8d977820c4fc5fccbe6c31a7ba0d511b1d41315e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_e0c1bb3a466a5bd6150ad53e712bcfc0633417b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_cfbcf377ba6b1c56fbef2e4d6c67c914a3e1a622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c15b5a7865fe59c21d634ea5c2c86ded5293678b">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c69d8e2cebfc7f23f6bc69b1a9d1d1d5bcb9d4e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c0cb5d7079e26a78f79e57ea644a32a6bb6fe138\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\caian.sa\Downloads\facebook-login-master\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_524a115b7377dea718d4ac9effe67c0181197c41\classes.dex" />
+    </item>
+
+</items>
